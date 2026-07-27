@@ -16,32 +16,49 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">                                      </tspan>
-<tspan x="15" y="50">            .;|jkM%%%%Mk|;.           </tspan>
-<tspan x="15" y="70">         ,j%$$$@@@@@@@@$$$g%|.        </tspan>
-<tspan x="15" y="90">       ;%$@@@@@@@@@@@@@$$$ggg%j.      </tspan>
-<tspan x="15" y="110">      k$@@@@@@@@@@@@@@@$$$gg%%%%j.    </tspan>
-<tspan x="15" y="130">     M$$@@@$gg$$$g$$$@@$$$$gg%%%Mk.   </tspan>
-<tspan x="15" y="150">     %$$g%ggMM%g%%%g$$$$ggggggg%MMk.  </tspan>
-<tspan x="15" y="170">     !g%j|!|||;;||jM%%ggg%g$$$$$%%%|  </tspan>
-<tspan x="15" y="190">     .M!!|||!;....,!||jjjj||Mgg$@$g!  </tspan>
-<tspan x="15" y="210">      !;;!!!;;;,.;;;;;;;;!;;;k%g$g|   </tspan>
-<tspan x="15" y="230">      ,;|j|kj!;,,;;||Mkk|;,,,k%%g|    </tspan>
-<tspan x="15" y="250">     .,;;;;,;;;;;,,;;;;;;;,..||!!     </tspan>
-<tspan x="15" y="270">     .,,,..,;;,,,;;,..,,,,,,,;|;,     </tspan>
-<tspan x="15" y="290">     .,,,,,;;!;;!|;;,..,,;;;,;!;.     </tspan>
-<tspan x="15" y="310">      ,,,,,;;;;;;;;;;,;,;;;;,,,.      </tspan>
-<tspan x="15" y="330">      ,,,,;j!;,,,;|j!;,;;;;;,.        </tspan>
-<tspan x="15" y="350">       ,,,,,;;;;;!;;,,,;;!!!,.        </tspan>
-<tspan x="15" y="370">        .;;,,,,,,,,;;;!!|||!,.        </tspan>
-<tspan x="15" y="390">          .;;;,,,;;!|jjj|!!!;.,,      </tspan>
-<tspan x="15" y="410">           .|jjjkkkkkj|!!!!!!|%gM     </tspan>
-<tspan x="15" y="430">            ;!!!!!!!!;;;;;;j%gggj,.   </tspan>
-<tspan x="15" y="450">           ;k;!;;;;;,,,,;jg$$gM!|Mggk;</tspan>
-<tspan x="15" y="470">         ,k$$!;;;;;,,,,jg$$$gjj%$$$$$$</tspan>
-<tspan x="15" y="490"> .,!|jM$$$g$@k;;;;,,!jg$$$$%%g$$$$$$$$</tspan>
-<tspan x="15" y="510">gg$$$$$@@@$$$k|kgg$$$$$@@@$$$$$$$$$$$$</tspan>
+<text x="15" y="17" fill="#24292f" font-size="12px" class="ascii">
+<tspan x="15" y="17">                        ,,,,                       </tspan>
+<tspan x="15" y="29">                ,,!!xk#W888%%%W#x|:,               </tspan>
+<tspan x="15" y="41">             ,!oW%%B%BB$$$$$$$$BBBB%Wo|,           </tspan>
+<tspan x="15" y="53">          ,xW%BBBB$@$@@$$@@@@$$$$$BBBB%Mx:,        </tspan>
+<tspan x="15" y="65">        :oWBB$$@@@@@@@@@@@@@@$$$$BBBBBB%%W|,,      </tspan>
+<tspan x="15" y="77">      ,oBB$@@$@@@@@@@@@@@@@@@@@@$$B$B%B%%%%M!,     </tspan>
+<tspan x="15" y="89">     :WB$$@@@@@@@@@@@@@@@@@@@@@@$BB$B%8%8%888o:    </tspan>
+<tspan x="15" y="101">    x%BB$$@@@@@@@@@@@@@@@@@@@@@@$B$B$B888W8888Mk,  </tspan>
+<tspan x="15" y="113">   kB$B$$$@@@@$$@@@@$$@@@@$@@@@@$$$$$B%88WW8WWWMM; </tspan>
+<tspan x="15" y="125">  jBB$$$@@@@$BB8B@@$$B$$$$$$@@@$$$$$BBB%%8W88WM###;</tspan>
+<tspan x="15" y="137"> ,%$B$$$$$$@B8%W%$$B%%%%BBBB$$$@$$BBB%%%888W8WWMooo</tspan>
+<tspan x="15" y="149"> ,BB$$B$%$$$BWW88%B%W8W8%%%BBBB$$BBB%%%%88%W88WMooo</tspan>
+<tspan x="15" y="161"> ,8BB$B%MW%BB8ok#WW%W#WM88%%BBBBB%%B%%%%%8%%88WMM##</tspan>
+<tspan x="15" y="173">  k%%B8#oxk#MM#xx||xM####8%%%%%%%%8%8%%BB%%%%%%WWMM</tspan>
+<tspan x="15" y="185">  :%88#jj!;;;||j|;;::!;jjkMWW8%%%%%888%BB%BBBBB%WW8</tspan>
+<tspan x="15" y="197">  ,8Wk;;;;::,,:,:,,,,,,:::;|jxoWMWW8W#WW%%BBB$B%BB%</tspan>
+<tspan x="15" y="209">   #M;;!xkkxxx|;,,,,,,,,,,;!!!;|jjjxkjj|xW88%B$$@@B</tspan>
+<tspan x="15" y="221">   |o:!|!!!||||!;,,,,,,,:!|xxkkkkkkj|!;;;|oW8%B$@$B</tspan>
+<tspan x="15" y="233">   ,x::::;;::::;;:,,,,,:;::::::::::;;;;::;jMWW8B$B8</tspan>
+<tspan x="15" y="245">    ;::;|xxokkj;;;:,,,:;;:;!!;!!!;:,,,::::|oMW8%B8M</tspan>
+<tspan x="15" y="257">   ,,:!xM#|MWWkk!;:,,,:::jkjxW8Mok|;::,,,,!oWWW%%M;</tspan>
+<tspan x="15" y="269">   ::;!!!!!;;!!;;::,,,::;!|j|xkxk#k|;:,,,,;#WMW8W| </tspan>
+<tspan x="15" y="281">  ,::;;;;::::::::::,,,,,:::;;;;;;;;;::,,,,:kkx!:,  </tspan>
+<tspan x="15" y="293">  ,,,,,,,,,,,,::;;:,:::,,,,,,,,,,:::,,,,,,,j!;!|!, </tspan>
+<tspan x="15" y="305">  ,,,,,,,,,,,,;;::,,,::::,,,,,,,,,,,,,,,,,,!!|,,,  </tspan>
+<tspan x="15" y="317">  ,,,,,,,,,,,:,,,,,,,,,,:;,,,,,,,,,,,,,,,,,;xk!,,  </tspan>
+<tspan x="15" y="329">  ,,,,,,,,,,::;jx;::|ko|,!;,,,,,,,,,,,:::,,,!!!,,  </tspan>
+<tspan x="15" y="341">   ,,,,,,,,,,:;::::::,:;!|:,,,,,,,,,:;;;:,,:j::,   </tspan>
+<tspan x="15" y="353">   ,,,,,,,,,:::,:,,,,,,:::,,,,,,,,,:;;;::,,:;,,,   </tspan>
+<tspan x="15" y="365">   ,,,,,,,,,,,:;;:,::::,,:::::,::::::::::,,:,,,    </tspan>
+<tspan x="15" y="377">   ,,,,,,,,!jj|;!:!!!|||!;::::,::,:::::::,,:,,     </tspan>
+<tspan x="15" y="389">    ;,,,,,,;kj;,,,,,,,,,|joo;:,,,:::;:;::,,,       </tspan>
+<tspan x="15" y="401">    ,:,,,,,,:!|||!;!;;!jjj|;,,,,,:,::;;;;:,,       </tspan>
+<tspan x="15" y="413">     ,,,,,,,,,,:;;::;!!;;::,,,,,,,::;!!!;,,,       </tspan>
+<tspan x="15" y="425">      ,,,,,,,,,,,,:::,:::,,:,,::::;!|||!;,,        </tspan>
+<tspan x="15" y="437">       ,::::,,,,,,,:,,,,,,::::;;;!|jxjj!:,,,       </tspan>
+<tspan x="15" y="449">        ,::::,,,,,,,,,,,,:::;!!||jxxj|!!:,,,       </tspan>
+<tspan x="15" y="461">          ,;:,,,,,,,,,,:::;!|jjxxxj|!!!!;:,,       </tspan>
+<tspan x="15" y="473">            !!!;;;::;;;!!jxkkkkxxj!!!!!!;:,,|#oj,  </tspan>
+<tspan x="15" y="485">            ,|xkkkkkkkoo####okxj||!!!!!;;;::|%8M#  </tspan>
+<tspan x="15" y="497">             ;!|xkoooooooookxj||!!!!!;;;;!jM%88WM; </tspan>
+<tspan x="15" y="509">             ,;!!!!|||jjj||!!;;;;;;;;:;;jM%%%%%88;,</tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">hoanganh@phanvan</tspan> -———————————————————————————————————————-—-

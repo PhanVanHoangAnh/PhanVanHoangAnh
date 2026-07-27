@@ -16,32 +16,49 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                                      </tspan>
-<tspan x="15" y="50">            @gMkj|!!!!|jMg@           </tspan>
-<tspan x="15" y="70">         $k!,,,........,,,;!M@        </tspan>
-<tspan x="15" y="90">       g!,.............,,,;;;!k@      </tspan>
-<tspan x="15" y="110">      j,...............,,,;;!!!!k@    </tspan>
-<tspan x="15" y="130">     |,,...,;;,,,;,,,..,,,,;;!!!|j@   </tspan>
-<tspan x="15" y="150">     !,,;!;;||!;!!!;,,,,;;;;;;;!||j@  </tspan>
-<tspan x="15" y="170">     %;!kM%MMMggMMk|!!;;;!;,,,,,!!!M  </tspan>
-<tspan x="15" y="190">     @|%%MMM%g@@@@$%MMkkkkMM|;;,.,;%  </tspan>
-<tspan x="15" y="210">      %gg%%%ggg$@gggggggg%gggj!;,;M   </tspan>
-<tspan x="15" y="230">      $gMkMjk%g$$ggMM|jjMg$$$j!!;M    </tspan>
-<tspan x="15" y="250">     @$gggg$ggggg$$ggggggg$@@MM%%     </tspan>
-<tspan x="15" y="270">     @$$$@@$gg$$$gg$@@$$$$$$$gMg$     </tspan>
-<tspan x="15" y="290">     @$$$$$gg%gg%Mgg$@@$$ggg$g%g@     </tspan>
-<tspan x="15" y="310">      $$$$$gggggggggg$g$gggg$$$@      </tspan>
-<tspan x="15" y="330">      $$$$gk%g$$$gMk%g$ggggg$@        </tspan>
-<tspan x="15" y="350">       $$$$$ggggg%gg$$$gg%%%$@        </tspan>
-<tspan x="15" y="370">        @gg$$$$$$$$ggg%%MMM%$@        </tspan>
-<tspan x="15" y="390">          @ggg$$$gg%MkkkM%%%g@$$      </tspan>
-<tspan x="15" y="410">           @MkkkjjjjjkM%%%%%%M!;|     </tspan>
-<tspan x="15" y="430">            g%%%%%%%%ggggggk!;;;k$@   </tspan>
-<tspan x="15" y="450">           gjg%ggggg$$$$gk;,,;|%M|;;jg</tspan>
-<tspan x="15" y="470">         $j,,%ggggg$$$$k;,,,;kk!,,,,,,</tspan>
-<tspan x="15" y="490"> @$%Mk|,,,;,.jgggg$$%k;,,,,!!;,,,,,,,,</tspan>
-<tspan x="15" y="510">;;,,,,,...,,,jMj;;,,,,,...,,,,,,,,,,,,</tspan>
+<text x="15" y="17" fill="#c9d1d9" font-size="12px" class="ascii">
+<tspan x="15" y="17">                        @@@@                       </tspan>
+<tspan x="15" y="29">                @BWWokj!;;;:::!joM%$               </tspan>
+<tspan x="15" y="41">             $Wx!::,:,,'''''''',,,,:!xM$           </tspan>
+<tspan x="15" y="53">          $o!:,,,,'.'..''....''''',,,,:|o%@        </tspan>
+<tspan x="15" y="65">        %x!,,''..............'''',,,,,,::!M$@      </tspan>
+<tspan x="15" y="77">      @x,,'..'..................'',',:,::::|W$     </tspan>
+<tspan x="15" y="89">     %!,''......................',,',:;:;:;;;x%    </tspan>
+<tspan x="15" y="101">    o:,,''......................',',',;;;!;;;;|k@  </tspan>
+<tspan x="15" y="113">   k,','''....''....''....'.....''''',:;;!!;!!!||8 </tspan>
+<tspan x="15" y="125">  #,,'''....',,;,..'',''''''...''''',,,::;!;;!|jjj8</tspan>
+<tspan x="15" y="137"> $:',''''''.,;:!:'',::::,,,,'''.'',,,:::;;;!;!!|xxx</tspan>
+<tspan x="15" y="149"> B,,'',':''',!!;;:,:!;!;:::,,,,'',,,::::;;:!;;!|xxx</tspan>
+<tspan x="15" y="161"> @;,,',:|!:,,;xkj!!:!j!|;;::,,,,,::,:::::;::;;!||jj</tspan>
+<tspan x="15" y="173">  k::,;jxokj||jooMMo|jjjj;::::::::;:;::,,::::::!!||</tspan>
+<tspan x="15" y="185">  %:;;j##W888MM#M88%%W8##k|!!;:::::;;;:,,:,,,,,:!!;</tspan>
+<tspan x="15" y="197">  @;!k8888%%BB%B%BBBBBB%%%8M#ox!|!!;!j!!::,,,',:,,:</tspan>
+<tspan x="15" y="209">   j|88WokkoooM8B@@@@@@@$B8WWW8M###ok##Mo!;;:,''..,</tspan>
+<tspan x="15" y="221">   Mx%WMWWWMMMMW8B@@@@$B%WMookkkkkk#MW888Mx!;:,'.',</tspan>
+<tspan x="15" y="233">   @o%%%%88%%%%88%B$@$B%8%%%%%%%%%%8888%%8#|!!;,',;</tspan>
+<tspan x="15" y="245">    8%%8Mooxkk#888%$$B%88%8WW8WWW8%BBB%%%%Mx|!;:,;|</tspan>
+<tspan x="15" y="257">   @B%Wo|jM|!!kkW8%B$B%%%#k#o!;|xkM8%%B$$BWx!!!::|8</tspan>
+<tspan x="15" y="269">   %%8WWWWW88WW88%%BBB%%8WM#MokokjkM8%B$@@8j!|!;!M </tspan>
+<tspan x="15" y="281">  @%%8888%%%%%%%%%%BBBBB%%%888888888%%$@@@%kkoW%$  </tspan>
+<tspan x="15" y="293">  @BBBBBBBBB$B%%88%B%%%BBBBBBBBBB%%%BB$@@@B#W8WMW@ </tspan>
+<tspan x="15" y="305">  @BBBB$$$@@@B88%%BBB%%%%B$@$$BBBBBBB$$$$BBWWMBBB  </tspan>
+<tspan x="15" y="317">  @BBB$$$@@$B%BBBB@$BBBB%8$@@@@$$$$$$$BBBBB8okW$$  </tspan>
+<tspan x="15" y="329">  @BBB$$$$$B%%8#o8%%MkxMBW8$$@@@$$$$BB%%%B$BWWWB@  </tspan>
+<tspan x="15" y="341">   BBBBBBBBBB%8%%%%%%B%8WM%BB$@$$BBB%888%B$%#%%$   </tspan>
+<tspan x="15" y="353">   BBBBBBBBB%%%B%BBBBBB%%%BBB$$BBBB%888%%B$%8$$@   </tspan>
+<tspan x="15" y="365">   BBBBBBBBBBB%88%B%%%%BB%%%%%B%%%%%%%%%%B$%$$@    </tspan>
+<tspan x="15" y="377">   @BBBBB$BW##M8W%WWWMMMW8%%%%B%%B%%%%%%%BB%B@     </tspan>
+<tspan x="15" y="389">    8BBBB$B8k#8BB@@@@@BBM#xx8%BBB%%%8%8%%B$@       </tspan>
+<tspan x="15" y="401">    B%BBBB$B%WMMMW8W88W###M8BBBBB%B%%8888%@@       </tspan>
+<tspan x="15" y="413">     BBBBBBBBBB%88%%8WW88%%BBBBBBB%%8WWW8B@@       </tspan>
+<tspan x="15" y="425">      BBBBBBBBBBBB%%%B%%%BB%BB%%%%8WMMMW8$@        </tspan>
+<tspan x="15" y="437">       $%%%%BBBBBBB%BBBBBB%%%%888WM#o##W%$@@       </tspan>
+<tspan x="15" y="449">        @%%%%BBBB$$@$$BBB%%%8WWMM#oo#MWW%B@@       </tspan>
+<tspan x="15" y="461">          $8%BBBBB$$$BB%%%8WM##ooo#MWWWW8%$@       </tspan>
+<tspan x="15" y="473">            WWW888%%888WW#okkkkoo#WWWWWW8%B$Mjx#@  </tspan>
+<tspan x="15" y="485">            $Mokkkkkkkxxjjjjxko#MMWWWWW888%%M:;|j  </tspan>
+<tspan x="15" y="497">             8WMokxxxxxxxxxko#MMWWWWW8888W#|:;;!|8 </tspan>
+<tspan x="15" y="509">             $8WWWWMMM###MMWW88888888%88#|:::::;;8@</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">hoanganh@phanvan</tspan> -———————————————————————————————————————-—-
